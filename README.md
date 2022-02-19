@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**jaimevalero/jaimevalero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimevalero&label=Profile%20views&color=0e75b6&style=flat" alt="jaimevalero" /> </p>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+<img src="https://github-readme-stats.vercel.app/api?username=jaimevalero&count_private=true" alt="jaimevalero stats" /> 
+</p>
+
+
+<p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=jaimevalero" alt="jaimevalero" /></a>
+</p>
+
+
+
+
+- 🔭 I’m currently working on Airflow, Kafka.
+- 🌱 I’m currently learning AWS, Azure, Kubernetes, Vue, Terraform.
+- 👯 I’m looking to collaborate on any cool project
+- ⚡ Happy coding
