@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning AWS, Azure, Kubernetes, Vue.js, Terraform.
 - 👯 I’m looking to collaborate on: any cool project
 - ⚡ Happy coding !
-- 
+
 <br/>
 
 <p align="left"> 
