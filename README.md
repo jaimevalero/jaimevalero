@@ -1,5 +1,4 @@
 <h2>  Hi there 👋, I am jaimevalero</h2>
-<hr>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jaimevalero&label=Profile%20views&color=0e75b6&style=flat" alt="jaimevalero" /> </p>
 
