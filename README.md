@@ -5,7 +5,7 @@
 <br/>
 
 <p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=jaimevalero&count_private=true" alt="jaimevalero stats" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=jaimevalero&show_icons=true&include_all_commits=true&count_private=true" alt="jaimevalero stats" /> 
 </p>
 
 
