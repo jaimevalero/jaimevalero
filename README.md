@@ -10,7 +10,7 @@
 
 
 <p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=jaimevalero" alt="jaimevalero" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=jaimevalero&count_private=true" alt="jaimevalero" /></a>
 </p>
 
 
