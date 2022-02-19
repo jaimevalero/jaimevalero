@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimevalero&label=Profile%20views&color=0e75b6&style=flat" alt="jaimevalero" /> </p>
 
 <br/>
-<br/>
 
 <p align="left"> 
 <img src="https://github-readme-stats.vercel.app/api?username=jaimevalero&count_private=true" alt="jaimevalero stats" /> 
@@ -17,7 +16,7 @@
 
 
 
-- 🔭 I’m currently working on Airflow, Kafka.
-- 🌱 I’m currently learning AWS, Azure, Kubernetes, Vue, Terraform.
-- 👯 I’m looking to collaborate on any cool project
-- ⚡ Happy coding
+- 🔭 I’m currently working on: Airflow, Kafka, dbt ...
+- 🌱 I’m currently learning AWS, Azure, Kubernetes, Vue.js, Terraform.
+- 👯 I’m looking to collaborate on: any cool project
+- ⚡ Happy coding !
