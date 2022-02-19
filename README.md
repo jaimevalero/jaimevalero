@@ -6,6 +6,8 @@
 
 <p align="left"> 
 <img src="https://github-readme-stats.vercel.app/api?username=jaimevalero&show_icons=true&include_all_commits=true&count_private=true" alt="jaimevalero stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimevalero&layout=compact&exclude_repo=managing-awesome-lists,jaimevalero.github.io,curso-molariasi,COVID-19,lczero-jupyter,python-machine-learning-book-2nd-edition,covid-vaccine-spain&langs_count=7&hide=Jupyter+Notebook" alt="jaimevalero languages" /> 
+
 </p>
 
 
