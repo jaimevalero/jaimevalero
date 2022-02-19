@@ -2,6 +2,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jaimevalero&label=Profile%20views&color=0e75b6&style=flat" alt="jaimevalero" /> </p>
 
+
+
+- 🔭 I’m currently working on: Airflow, Kafka, dbt ...
+- 🌱 I’m currently learning AWS, Azure, Kubernetes, Vue.js, Terraform.
+- 👯 I’m looking to collaborate on: any cool project
+- ⚡ Happy coding !
+- 
 <br/>
 
 <p align="left"> 
@@ -17,8 +24,3 @@
 
 
 
-
-- 🔭 I’m currently working on: Airflow, Kafka, dbt ...
-- 🌱 I’m currently learning AWS, Azure, Kubernetes, Vue.js, Terraform.
-- 👯 I’m looking to collaborate on: any cool project
-- ⚡ Happy coding !
