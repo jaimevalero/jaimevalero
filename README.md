@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on: Airflow, Kafka, dbt ...
-- 🌱 I’m currently learning AWS, Azure, Kubernetes, Vue.js, Terraform.
+- 🔭 I’m currently working on: LLMs, dbt ...
+- 🌱 I’m currently learning Azure, Kubernetes, Vue.js, Terraform.
 - 👯 I’m looking to collaborate on: any cool project
 - ⚡ Happy coding !
 
