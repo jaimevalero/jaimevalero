@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on: LLMs, dbt ...
+- 🔭 I’m currently working on: LLMs, ollama, haystack  ...
 - 🌱 I’m currently learning Azure, Kubernetes, Vue.js, Terraform.
 - 👯 I’m looking to collaborate on: any cool project
 - ⚡ Happy coding !
